@@ -1,0 +1,14 @@
+body
+{background:green;
+font-family:ariel;
+}
+.funkyclass{
+font-variant:small-caps;
+border:thick dashed yellow}
+ul li {
+                     font-size: x-large;
+                     font-decoration: italic }
+          h2 em { font-weight: 900 }
+p{font-size:large;
+color="#aaffbb";
+font-decoration:italic}
