@@ -1,2 +1,3 @@
-# online_shoping_catalog_system
-Online Shopping Catalog System
+# Online Shoping Catalog System
+
+Online Shopping Catalog System using Java
